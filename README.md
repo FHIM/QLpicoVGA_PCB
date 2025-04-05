@@ -1,2 +1,2 @@
 # QLpicoVGA_PCB
-Tiny QLpicoVGA PCB
+This is a Tiny QLpicoVGA PCB adapter board
