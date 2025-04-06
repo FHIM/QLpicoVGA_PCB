@@ -13,7 +13,8 @@ On the bottom side you have to connect the Hsync and Vsync signal to the board. 
 
 ![QLpicoVGA v12](https://github.com/user-attachments/assets/b9adeb00-2a8e-4e35-aa2c-550dde411eee)
 
-The enclosure will be on Makerworld soon.
+The enclosure will be on Makerworld soon. You also need four M3x12mm screws with a countersunk head. In QL black of course!
+The complete bill of materials can be found in the same directory as the schematic.
 
 ![QLpicoVGA v6](https://github.com/user-attachments/assets/7bcf3490-32a0-443c-ba1d-784999c98415)
 
@@ -23,3 +24,4 @@ Short K4 with a blob of solder (see schematic). If you have a 6 core wire you ca
 
 ![QLpicoVGA v5](https://github.com/user-attachments/assets/1bcc91b4-5461-4a37-a74b-2e02751b4b03)
 
+Some additional photos which might help in assembling.
