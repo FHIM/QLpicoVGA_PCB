@@ -25,3 +25,14 @@ Short K4 with a blob of solder (see schematic). If you have a 6 core wire you ca
 ![QLpicoVGA v5](https://github.com/user-attachments/assets/1bcc91b4-5461-4a37-a74b-2e02751b4b03)
 
 Some additional photos which might help in assembling.
+
+![IMG_7710](https://github.com/user-attachments/assets/3556425a-b54c-4fd1-9cc1-b436a310888e)
+
+![IMG_7711](https://github.com/user-attachments/assets/792ed7b8-9762-4e23-962b-be276b609a97)
+
+![IMG_7712](https://github.com/user-attachments/assets/0b6ced56-a854-48c4-a526-8967fccb87be)
+
+![IMG_7713](https://github.com/user-attachments/assets/ed01cd0b-078d-4070-982e-841e59dec5c5)
+
+![IMG_7720](https://github.com/user-attachments/assets/549cf53d-373d-4718-8533-e860170cfdf3)
+
