@@ -1,5 +1,5 @@
 # QLpicoVGA_PCB
-This is a Tiny QLpicoVGA PCB adapter board based on the design by Holmatic.
+This is a Tiny QLpicoVGA PCB converter board based on the design by Holmatic.
 His Github repo is here: https://github.com/holmatic/video_if_ql_vga
 
 Instead of using an off the shelf Pico with a daughterboard, I combined all in one single PCB.
@@ -17,4 +17,9 @@ The enclosure will be on Makerworld soon.
 
 ![QLpicoVGA v6](https://github.com/user-attachments/assets/7bcf3490-32a0-443c-ba1d-784999c98415)
 
+Note that the converter is powered over USB, so an extra lead is needed to power it.
+Another option is to power it from the QL itself. It is a tricky procedure though!
+Short K4 with a blob of solder (see schematic). If you have a 6 core wire you can solder the unused one to K1, pin 1, marked "P". On the QL side you have to use one of the pins of the DIN connector and supply 5V there. More info is in the schematic on page 2.
+
 ![QLpicoVGA v5](https://github.com/user-attachments/assets/1bcc91b4-5461-4a37-a74b-2e02751b4b03)
+
