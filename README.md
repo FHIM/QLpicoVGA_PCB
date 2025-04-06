@@ -1,4 +1,6 @@
 # QLpicoVGA_PCB
+[Going to add a licence later. Not my cup of tea, but I think one of the Cern Licences will do the job}
+
 This is a Tiny QLpicoVGA PCB converter board based on the design by Holmatic.
 His Github repo is here: https://github.com/holmatic/video_if_ql_vga
 
