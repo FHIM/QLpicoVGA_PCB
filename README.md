@@ -16,7 +16,7 @@ On the bottom side you have to connect the Hsync and Vsync signal to the board. 
 ![QLpicoVGA v12](https://github.com/user-attachments/assets/b9adeb00-2a8e-4e35-aa2c-550dde411eee)
 
 The enclosure can be found on Makerworld.
-https://makerworld.com/en/models/1292430-sinclair-ql-qlpicovga#profileId-1322934
+https://makerworld.com/en/models/1292430-sinclair-ql-qlpicovga#profileId-1322934.
 You also need four M3x12mm screws with a countersunk head. In QL black of course!
 The complete bill of materials can be found in the same directory as the schematic.
 
